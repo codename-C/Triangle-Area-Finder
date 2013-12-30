@@ -39,6 +39,7 @@ public class mainClass {
 		 //This is the first half of our equation.
 		 
 		 double area = preArea / 2;
+		 //This is the second half of our equation.
 		 
 		 System.out.println("\nYour area is: " + area + "\n Thanks for using our Triangle Area Finder!");
 		 //This tells the user what the area is of his/her triangle!
